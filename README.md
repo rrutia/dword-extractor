@@ -26,3 +26,4 @@ Example usage and output
 ------------------------
 
     $python commands.py vault.o
+![image](https://user-images.githubusercontent.com/558838/218294012-14fb3c95-7e48-4a87-8287-8e7ae0f0f5ab.png)
